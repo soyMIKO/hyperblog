@@ -1,3 +1,5 @@
 Hola soy Agustin De La Vega tengo 18 años y esto es una de mis primeras clases 
 del curso de PLatzi 'git y github'
+
+Hola yo soy Miko un perro flojo y tengo 6 años.
 bye
